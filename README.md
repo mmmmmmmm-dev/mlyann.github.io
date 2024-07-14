@@ -3,7 +3,6 @@
 This project is dedicated to developing a personal website for Minglai Yang, a top-performing Computer Science student at the University of Arizona. The website showcases Minglai's extensive experience in AI and Software Engineering, academic achievements, research projects, and professional interests.
 
 ## Features
-
 - **About Me**: Introduction and background information.
 - **Projects**: Showcase of significant projects, including contributions to DARPA-funded research and various AI/ML initiatives.
 - **Publications**: List of research papers and articles.
